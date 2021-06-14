@@ -38,4 +38,4 @@ Followers will have a velocity proportional to the distance to the le
 Finally, followers will keep a safe distance from the leader, and will try to avoid collisions among themselves as well, but most of the time, not possible to avoid. :-)
 
 If Robots get stuck, just click on screen to redefine the leader position, or, you can also re-start by re-instantiate Enviro in the docker container.
-
+ 
